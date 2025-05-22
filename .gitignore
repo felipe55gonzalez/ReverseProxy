@@ -279,5 +279,3 @@ yarn.lock
 tools/
 user-jwts/
 
-# Rider specific
-.idea/.idea.ProxyRali/.idea/
